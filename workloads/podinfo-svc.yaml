@@ -5,6 +5,7 @@ metadata:
   namespace: demo
   labels:
     app: podinfo
+    newlabel: nothing
 spec:
   type: LoadBalancer
   selector:
