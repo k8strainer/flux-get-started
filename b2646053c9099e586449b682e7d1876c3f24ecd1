@@ -1,0 +1,1 @@
+{"jobID":"35417c96-e75d-1be0-d8e4-94c67a23f47e","spec":{"type":"policy","cause":{"Message":"","User":"k8strainer \u003cinfo@itc.li\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"automated":"true"},"remove":{}}}},"result":null}
