@@ -1,0 +1,1 @@
+{"jobID":"d7ddb17e-74bf-e551-edc4-c114de328b30","spec":{"type":"policy","cause":{"Message":"","User":"k8strainer \u003cinfo@itc.li\u003e"},"spec":{"demo:deployment/podinfo":{"add":{},"remove":{"locked":"true","locked_msg":"true","locked_user":"true"}}}},"result":null}
