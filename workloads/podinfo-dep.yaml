@@ -55,7 +55,7 @@ spec:
         - --level=info
         - --random-delay=false
         - --random-error=false
-        - --ui-message='First User of Flux'
+        - --ui-message='First User of Flux - Test 1'
         env:
         - name: PODINFO_UI_COLOR
           value: "#34577c"
