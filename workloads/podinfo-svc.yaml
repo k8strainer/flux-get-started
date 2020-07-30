@@ -7,9 +7,7 @@ metadata:
     app: podinfo
     newlabel: nothing
 spec:
-  type: NodePort
-  externalIPs:
-  - 192.168.99.50
+  type: LoadBalancer
   selector:
     app: podinfo
   ports:
