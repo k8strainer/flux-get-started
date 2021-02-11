@@ -55,7 +55,7 @@ spec:
         - --level=info
         - --random-delay=false
         - --random-error=false
-        - --ui-message='TEST HS BLA'
+        - --ui-message='TEST KW06 2021 AOK'
         env:
         - name: PODINFO_UI_COLOR
           value: "#34577c"
